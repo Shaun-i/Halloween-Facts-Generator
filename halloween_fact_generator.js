@@ -24,6 +24,11 @@ var facts = [
     "On Halloween 1992, the BBC aired a “mockumentary” called Ghostwatch. The pre-taped show was presented as if it were a live broadcast. It showed reporters visiting an ordinary household in North London that was apparently haunted by a poltergeist. The show was convincing enough that two young viewers exhibited some symptoms of post-traumatic stress disorder. Another viewer committed suicide because he thought his house was haunted.",
     "Americans now spend over $350 million a year on halloween costumes.",
     "20 million Halloween cards are sent out each year.",
+    "Halloween has variously been called All Hallows' Eve, Witches Night, Lamswool, Snap-Apple Night, Samhaim, and Summer's End.",
+    "Halloween was influenced by the ancient Roman festival Pomona, which celebrated the harvest goddess of the same name.",
+    "Scarecrows, a popular Halloween fixture, symbolize the ancient agricultural roots of the holiday.",
+    "'Halloween' is short for 'Hallows' Eve' or 'Hallows' Evening', which was the evening before All Hallows' Day or Hallowmas. In an effort to convert pagans, the Christian church decided that Hallowmas or All Saints' Day (November 1) and All Souls’ Day (November 2) should assimilate sacred pagan holidays that fell on or around October 31.",
+    "“Souling” is a medieval Christian precursor to modern-day trick-or-treating. On Hallowmas (November 1), the poor would go door-to-door offering prayers for the dead in exchange for soul cakes.",
     "When the movie trailer for The Exorcist was shown to the public in theaters, it was reportedly so scary that people ran out of the room.",
     "In Philadelphia, The Mutter Museum is filled with fascinating and disgusting bits of human anatomy that have been preserved. Mutations, tumors, and medical anomalies are on full display.",
     "Back in the 1960s, the skeletons in the Pirates of the Caribbean ride at Disneyland were real. At the time, they thought that fake skeletons didn’t look scary enough."
